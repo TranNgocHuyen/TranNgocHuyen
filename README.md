@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TranNgocHuyen
+- 👋 Hi, I’m @TranNgocHuyen. I'm from Vietnam.
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning CV, NLP
+- 🌱 I’m currently learning CV, NLP,...
 - 📫 How to reach me gmail: Tranhuyensocsona1@gmail.com
 
 <!---
